@@ -10,3 +10,4 @@
 
 The project is currently in progress, it's in it's phase 1 with basic functionality implemented. The primary purpose of the project is to enable the smartwatch to send health data such as calories burned and heart rate to the Flutter app. This data can then be used for accurate workout prescription and monitoring.
 
+![Showcasing the watch connection](showcase/applewatchfluttercompanion.gif)
